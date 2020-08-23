@@ -10,7 +10,7 @@ int main()
 	{
 		printf("Celsius is %.3f \nit too cold to live", y);
 	}
-	else if (y > 0 && y < 50)
+	else if (y > 0 && y < 45)
 	{
 		printf("Celsius is %.3f \nHuman can live in this temperature", y);
 	}
